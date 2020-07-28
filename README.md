@@ -1,2 +1,2 @@
-# Barcode-Reader-using-webcam
-# A simple project to read barcode using webcam 
+# Barcode-Reader
+# A simple project to read barcode in images and video
