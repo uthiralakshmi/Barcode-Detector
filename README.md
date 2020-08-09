@@ -1,2 +1,2 @@
 # Barcode-Reader
-# A simple project to read barcode in images and video
+# A simple project to detect barcode in images
